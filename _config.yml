@@ -29,6 +29,3 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
-
-# Google Analytics
-google_analytics: G-NPMM4ZMDH8
