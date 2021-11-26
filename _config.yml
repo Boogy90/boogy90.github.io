@@ -6,8 +6,11 @@ theme: minima
 
 # Minima social links
 github_username: Boogy90
+github_username_text: GitHub
 linkedin_username: wesseldegroot
-linkedin_username_text: Wessel
+linkedin_username_text: LinkedIn
+twitter_username: WesseldeGroot6
+twitter_username_text: Twitter
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
